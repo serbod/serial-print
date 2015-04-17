@@ -1,0 +1,34 @@
+*******************************************************
+
+ TmxWebUpdate for Delphi 5,6,7,2005,2006,2007,2009
+ Copyright (c) 2002-2008 Bitvadász Kft.
+
+*******************************************************
+
+ [*] : Bug
+ [+] : New
+ [-] : Removed
+
+HISTORY:
+--------
+
+1.21: 
+
+ [+] : Component is Delphi 2009 compatible
+
+1.20a: 
+
+ [+] : Component is Delphi 2006 compatible
+ [+] : Component is Delphi 2007 compatible
+
+1.2: 
+
+ [+] : Component is Delphi 2005 compatible
+
+1.1: 
+
+ [+] : Component is Delphi 7 compatible
+
+1.0:
+
+ [+] : First Public Release

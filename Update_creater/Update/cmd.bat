@@ -1,0 +1,1 @@
+cmd.exe brcc32 update.rc

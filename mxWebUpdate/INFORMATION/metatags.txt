@@ -1,0 +1,8 @@
+<META NAME="mxAuthor" CONTENT="Author name">
+<META NAME="mxDownload" CONTENT="Download URL">
+<META NAME="mxClientSideName" CONTENT="Name of update file at client side">
+<META NAME="mxEmail" CONTENT="Author's e-mail">
+<META NAME="mxProduct" CONTENT="Product name">
+<META NAME="mxRedirection" CONTENT="Redirection URL">
+<META NAME="mxRunParameters" CONTENT="Execution Parameters">
+<META NAME="mxVersion" CONTENT="1.0">
